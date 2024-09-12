@@ -24,3 +24,6 @@ the_codemaker-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore .env file containing secrets.
+.env
